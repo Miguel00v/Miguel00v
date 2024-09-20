@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development, with knowledge in PHP, JavaScript, SQL, and CSS.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web applications, open source projects, and any opportunities where I can work on both front-end and back-end development.
-- 📫 How to reach me: vieiramiguel813@gmail.com or find me on 
+- 📫 How to reach me: vieiramiguel813@gmail.com  
 ⚡ Fun fact: On my free time, I enjoy debugging complex code and staying active with exercise!
 
 <!---
